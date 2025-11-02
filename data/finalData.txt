@@ -1,0 +1,696 @@
+Faqs
+Store-related (20 FAQs)
+
+Q: What are the store hours for Store_1 in Ahmedabad?
+A: Store_1 is open from 8 AM to 10 PM daily.
+
+Q: What is the phone number for Store_2 in Mumbai?
+A: You can call Store_2 at +91-8267197775.
+
+Q: Where is Store_3 located in Hyderabad?
+A: Store_3 is at 688 Market Road, Hyderabad, Zip 957754.
+
+Q: Which store in Kolkata is open from 9 AM to 9 PM?
+A: Store_5 at 961 Main Street, Kolkata has 9 AM to 9 PM hours.
+
+Q: What are the opening hours for Store_7 in Pune?
+A: Store_7 is open from 9 AM to 9 PM.
+
+Q: Can I contact Store_10 in Mumbai?
+A: Yes, call Store_10 at +91-7483943836.
+
+Q: Which Delhi stores close at 10 PM?
+A: Store_6, Store_15, Store_22, and Store_31 in Delhi are open until 10 PM.
+
+Q: Where is Store_17 in Chennai?
+A: Store_17 is at 848 Market Road, Chennai, Zip 522922.
+
+Q: What are the hours for Store_39 in Chennai?
+A: Store_39 is open 9 AM – 9 PM.
+
+Q: Is Store_50 in Bangalore open late?
+A: Yes, Store_50 is open from 8 AM to 10 PM.
+
+Q: Which store in Pune is on Park Avenue?
+A: Store_34 at 988 Station Road and Store_49 at 428 High Street are in Pune.
+
+Q: Can I get the phone number for Store_36 in Bangalore?
+A: Store_36 can be reached at +91-8022549285.
+
+Q: Which Hyderabad store is at 648 Main Street?
+A: That’s Store_4, open from 8 AM to 10 PM.
+
+Q: Where is Store_25 located?
+A: Store_25 is at 887 Station Road, Ahmedabad.
+
+Q: Which store in Kolkata has MG Road address?
+A: Store_29 at 457 MG Road, Kolkata.
+
+Q: Are Mumbai stores open until 10 PM?
+A: Yes, Store_42 and Store_43 in Mumbai are open 8 AM to 10 PM.
+
+Q: Can I contact Store_23 in Chennai?
+A: Yes, call +91-7013606038.
+
+Q: What’s the zip code for Store_44 in Ahmedabad?
+A: Store_44’s zip code is 150516.
+
+Q: What is Store_8’s working hours in Ahmedabad?
+A: Store_8 operates 8 AM – 10 PM.
+
+Q: Which Bangalore store is on Market Road?
+A: Store_36, located at 407 Market Road, Bangalore.
+
+💻 Product-related (20 FAQs)
+
+Q: What is the display size of the Dell XPS 13?
+A: It has a 13.4" FHD+ InfinityEdge display.
+
+Q: Which laptop has the Apple M2 chip?
+A: The Apple MacBook Air M2.
+
+Q: How much does the Samsung Galaxy S23 Ultra cost?
+A: It is priced at $1,199.
+
+Q: Does the iPhone 14 Pro have Dynamic Island?
+A: Yes, it introduces Dynamic Island.
+
+Q: Which headphones offer industry-leading noise cancellation?
+A: Sony WH-1000XM5 headphones.
+
+Q: How long is the battery life of Bose QuietComfort Earbuds II?
+A: 6 hours standalone, 24 hours with charging case.
+
+Q: Does Apple Watch Series 8 support ECG?
+A: Yes, it includes ECG monitoring.
+
+Q: Which smartwatch has 23 days of battery?
+A: Garmin Forerunner 965.
+
+Q: What is the display size of the iPad Pro M2?
+A: 12.9" Liquid Retina XDR.
+
+Q: Which tablet includes an S Pen?
+A: Samsung Galaxy Tab S9 Ultra.
+
+Q: Does the Sony Alpha a7 IV support 4K video?
+A: Yes, up to 60fps.
+
+Q: What is the megapixel count of Canon EOS R50?
+A: 24.2MP APS-C CMOS sensor.
+
+Q: Which smartphone includes an S-Pen?
+A: Samsung Galaxy S23 Ultra.
+
+Q: What is the processor in the MacBook Air M2?
+A: Apple M2 chip with 8-core CPU and GPU.
+
+Q: Which headphones use 30mm drivers?
+A: Sony WH-1000XM5.
+
+Q: Does Apple Watch Series 8 support crash detection?
+A: Yes, it does.
+
+Q: What chipset powers the Galaxy Tab S9 Ultra?
+A: Snapdragon 8 Gen 2.
+
+Q: Which camera has dual card slots?
+A: Sony Alpha a7 IV.
+
+Q: Does Canon EOS R50 support vlogging features?
+A: Yes, it has an articulating touchscreen and microphone port.
+
+Q: Which smartphone has IP68 rating?
+A: iPhone 14 Pro.
+
+📦 Policy & Mixed (10 FAQs)
+
+Q: What is the return policy for electronics?
+A: Most electronics can be returned within 30 days with a receipt and original packaging.
+
+Q: Can I return products bought under Exchange Offer?
+A: Yes, but only according to store’s exchange terms.
+
+Q: How long do refunds take?
+A: Usually 7–10 business days after inspection.
+
+Q: Are accessories covered by warranty?
+A: Warranty varies by manufacturer.
+
+Q: Do you offer EMI on tablets?
+A: Yes, select tablets have No Cost EMI offers.
+
+Q: Do you offer free accessories with products?
+A: Yes, some stores offer free accessories with certain purchases.
+
+Q: Can I return a smartphone after 90 days?
+A: No, returns are only valid within 30 days.
+
+Q: How do I know if a product is in stock?
+A: Product availability is shown online per store; call to confirm.
+
+Q: Do you provide price matching?
+A: Yes, against verified retailers for identical items.
+
+Q: What documents are required for loan or EMI purchases?
+A: Valid ID, address proof, and income proof depending on bank requirements.
+
+------------------------------
+Product Catelogue
+Store | Location | Product | Count | Cost | Offer | Availability
+--------------------------------------------------------------------------------
+Store_1 | Ahmedabad | Laptop | 35 | ₹12653 | Exchange Offer | Available
+Store_1 | Ahmedabad | Smartphone | 31 | ₹39753 | Exchange Offer | Available
+Store_1 | Ahmedabad | Headphones | 12 | ₹76054 | Flat 500 off | Available
+Store_1 | Ahmedabad | Smartwatch | 21 | ₹40990 | None | Available
+Store_1 | Ahmedabad | Tablet | 8 | ₹37417 | Exchange Offer | Available
+Store_1 | Ahmedabad | Camera | 46 | ₹26526 | None | Available
+Store_2 | Mumbai | Laptop | 27 | ₹7773 | No Cost EMI | Available
+Store_2 | Mumbai | Smartphone | 48 | ₹40122 | Buy 1 Get 1 | Available
+Store_2 | Mumbai | Headphones | 40 | ₹62055 | Exchange Offer | Available
+Store_2 | Mumbai | Smartwatch | 10 | ₹58715 | Buy 1 Get 1 | Available
+Store_2 | Mumbai | Tablet | 39 | ₹9992 | No Cost EMI | Available
+Store_2 | Mumbai | Camera | 8 | ₹76435 | Exchange Offer | Available
+Store_3 | Hyderabad | Laptop | 37 | ₹36603 | No Cost EMI | Available
+Store_3 | Hyderabad | Smartphone | 44 | ₹49750 | Exchange Offer | Available
+Store_3 | Hyderabad | Headphones | 49 | ₹56932 | Flat 500 off | Available
+Store_3 | Hyderabad | Smartwatch | 10 | ₹44114 | None | Available
+Store_3 | Hyderabad | Tablet | 18 | ₹66780 | Buy 1 Get 1 | Available
+Store_3 | Hyderabad | Camera | 37 | ₹70934 | Exchange Offer | Available
+Store_4 | Hyderabad | Laptop | 20 | ₹16751 | Free Accessory | Available
+Store_4 | Hyderabad | Smartphone | 40 | ₹55750 | None | Available
+Store_4 | Hyderabad | Headphones | 34 | ₹32643 | Free Accessory | Available
+Store_4 | Hyderabad | Smartwatch | 30 | ₹10512 | Exchange Offer | Available
+Store_4 | Hyderabad | Tablet | 31 | ₹71533 | No Cost EMI | Available
+Store_4 | Hyderabad | Camera | 13 | ₹67882 | Free Accessory | Available
+Store_5 | Kolkata | Laptop | 43 | ₹23386 | No Cost EMI | Available
+Store_5 | Kolkata | Smartphone | 17 | ₹63720 | Exchange Offer | Available
+Store_5 | Kolkata | Headphones | 15 | ₹74412 | Free Accessory | Available
+Store_5 | Kolkata | Smartwatch | 34 | ₹32649 | Exchange Offer | Available
+Store_5 | Kolkata | Tablet | 28 | ₹59361 | No Cost EMI | Available
+Store_5 | Kolkata | Camera | 44 | ₹18138 | Free Accessory | Available
+Store_6 | Delhi | Laptop | 40 | ₹59627 | Exchange Offer | Available
+Store_6 | Delhi | Smartphone | 38 | ₹21626 | No Cost EMI | Available
+Store_6 | Delhi | Headphones | 11 | ₹34853 | 10% off | Available
+Store_6 | Delhi | Smartwatch | 24 | ₹58215 | No Cost EMI | Available
+Store_6 | Delhi | Tablet | 13 | ₹66313 | Buy 1 Get 1 | Available
+Store_6 | Delhi | Camera | 43 | ₹68285 | Flat 500 off | Available
+Store_7 | Pune | Laptop | 5 | ₹12779 | None | Available
+Store_7 | Pune | Smartphone | 42 | ₹47044 | 10% off | Available
+Store_7 | Pune | Headphones | 41 | ₹15684 | Flat 500 off | Available
+Store_7 | Pune | Smartwatch | 39 | ₹35627 | 10% off | Available
+Store_7 | Pune | Tablet | 13 | ₹7291 | Exchange Offer | Available
+Store_7 | Pune | Camera | 38 | ₹43594 | Exchange Offer | Available
+Store_8 | Ahmedabad | Laptop | 27 | ₹73120 | None | Available
+Store_8 | Ahmedabad | Smartphone | 22 | ₹27929 | Buy 1 Get 1 | Available
+Store_8 | Ahmedabad | Headphones | 7 | ₹49261 | 10% off | Available
+Store_8 | Ahmedabad | Smartwatch | 44 | ₹2963 | Buy 1 Get 1 | Available
+Store_8 | Ahmedabad | Tablet | 34 | ₹2736 | Exchange Offer | Available
+Store_8 | Ahmedabad | Camera | 26 | ₹63264 | Flat 500 off | Available
+Store_9 | Bangalore | Laptop | 13 | ₹33102 | Flat 500 off | Available
+Store_9 | Bangalore | Smartphone | 17 | ₹54747 | Exchange Offer | Available
+Store_9 | Bangalore | Headphones | 19 | ₹27320 | Buy 1 Get 1 | Available
+Store_9 | Bangalore | Smartwatch | 18 | ₹37732 | None | Available
+Store_9 | Bangalore | Tablet | 16 | ₹33096 | Buy 1 Get 1 | Available
+Store_9 | Bangalore | Camera | 42 | ₹5424 | 10% off | Available
+Store_10 | Mumbai | Laptop | 39 | ₹5855 | Buy 1 Get 1 | Available
+Store_10 | Mumbai | Smartphone | 45 | ₹69482 | No Cost EMI | Available
+Store_10 | Mumbai | Headphones | 10 | ₹49650 | No Cost EMI | Available
+Store_10 | Mumbai | Smartwatch | 24 | ₹17931 | 10% off | Available
+Store_10 | Mumbai | Tablet | 38 | ₹62949 | None | Available
+Store_10 | Mumbai | Camera | 5 | ₹3573 | Free Accessory | Available
+Store_11 | Bangalore | Laptop | 33 | ₹40808 | Free Accessory | Available
+Store_11 | Bangalore | Smartphone | 36 | ₹55432 | Flat 500 off | Available
+Store_11 | Bangalore | Headphones | 16 | ₹55261 | Exchange Offer | Available
+Store_11 | Bangalore | Smartwatch | 36 | ₹69091 | Flat 500 off | Available
+Store_11 | Bangalore | Tablet | 8 | ₹11390 | Exchange Offer | Available
+Store_11 | Bangalore | Camera | 45 | ₹8372 | Flat 500 off | Available
+Store_12 | Hyderabad | Laptop | 15 | ₹76195 | Exchange Offer | Available
+Store_12 | Hyderabad | Smartphone | 40 | ₹36090 | Exchange Offer | Available
+Store_12 | Hyderabad | Headphones | 26 | ₹63895 | 10% off | Available
+Store_12 | Hyderabad | Smartwatch | 31 | ₹48743 | None | Available
+Store_12 | Hyderabad | Tablet | 17 | ₹74774 | Free Accessory | Available
+Store_12 | Hyderabad | Camera | 23 | ₹18945 | None | Available
+Store_13 | Mumbai | Laptop | 5 | ₹8270 | Exchange Offer | Available
+Store_13 | Mumbai | Smartphone | 39 | ₹53572 | 10% off | Available
+Store_13 | Mumbai | Headphones | 13 | ₹58614 | 10% off | Available
+Store_13 | Mumbai | Smartwatch | 8 | ₹45235 | No Cost EMI | Available
+Store_13 | Mumbai | Tablet | 33 | ₹73567 | Exchange Offer | Available
+Store_13 | Mumbai | Camera | 10 | ₹44988 | Free Accessory | Available
+Store_14 | Hyderabad | Laptop | 21 | ₹4770 | Flat 500 off | Available
+Store_14 | Hyderabad | Smartphone | 49 | ₹63836 | Free Accessory | Available
+Store_14 | Hyderabad | Headphones | 31 | ₹21867 | Buy 1 Get 1 | Available
+Store_14 | Hyderabad | Smartwatch | 7 | ₹67071 | Flat 500 off | Available
+Store_14 | Hyderabad | Tablet | 10 | ₹28349 | None | Available
+Store_14 | Hyderabad | Camera | 50 | ₹9149 | Exchange Offer | Available
+Store_15 | Delhi | Laptop | 46 | ₹47723 | Exchange Offer | Available
+Store_15 | Delhi | Smartphone | 47 | ₹4090 | Flat 500 off | Available
+Store_15 | Delhi | Headphones | 13 | ₹70345 | Flat 500 off | Available
+Store_15 | Delhi | Smartwatch | 5 | ₹48131 | Free Accessory | Available
+Store_15 | Delhi | Tablet | 9 | ₹23973 | 10% off | Available
+Store_15 | Delhi | Camera | 21 | ₹57596 | None | Available
+Store_16 | Hyderabad | Laptop | 36 | ₹2167 | Buy 1 Get 1 | Available
+Store_16 | Hyderabad | Smartphone | 48 | ₹23378 | Flat 500 off | Available
+Store_16 | Hyderabad | Headphones | 30 | ₹61571 | Free Accessory | Available
+Store_16 | Hyderabad | Smartwatch | 50 | ₹28531 | No Cost EMI | Available
+Store_16 | Hyderabad | Tablet | 8 | ₹11554 | None | Available
+Store_16 | Hyderabad | Camera | 22 | ₹67685 | No Cost EMI | Available
+Store_17 | Chennai | Laptop | 34 | ₹16950 | Buy 1 Get 1 | Available
+Store_17 | Chennai | Smartphone | 19 | ₹65974 | Buy 1 Get 1 | Available
+Store_17 | Chennai | Headphones | 34 | ₹75674 | None | Available
+Store_17 | Chennai | Smartwatch | 26 | ₹10406 | Buy 1 Get 1 | Available
+Store_17 | Chennai | Tablet | 26 | ₹59687 | Exchange Offer | Available
+Store_17 | Chennai | Camera | 14 | ₹22163 | Exchange Offer | Available
+Store_18 | Delhi | Laptop | 29 | ₹69496 | Free Accessory | Available
+Store_18 | Delhi | Smartphone | 20 | ₹49551 | No Cost EMI | Available
+Store_18 | Delhi | Headphones | 9 | ₹69748 | Exchange Offer | Available
+Store_18 | Delhi | Smartwatch | 30 | ₹66736 | None | Available
+Store_18 | Delhi | Tablet | 19 | ₹30884 | Free Accessory | Available
+Store_18 | Delhi | Camera | 18 | ₹49777 | Flat 500 off | Available
+Store_19 | Delhi | Laptop | 8 | ₹59403 | Free Accessory | Available
+Store_19 | Delhi | Smartphone | 37 | ₹30793 | No Cost EMI | Available
+Store_19 | Delhi | Headphones | 10 | ₹73732 | 10% off | Available
+Store_19 | Delhi | Smartwatch | 43 | ₹48740 | Exchange Offer | Available
+Store_19 | Delhi | Tablet | 31 | ₹73540 | No Cost EMI | Available
+Store_19 | Delhi | Camera | 7 | ₹39891 | Free Accessory | Available
+Store_20 | Pune | Laptop | 45 | ₹48791 | Free Accessory | Available
+Store_20 | Pune | Smartphone | 14 | ₹12146 | No Cost EMI | Available
+Store_20 | Pune | Headphones | 10 | ₹12388 | Exchange Offer | Available
+Store_20 | Pune | Smartwatch | 19 | ₹5685 | Free Accessory | Available
+Store_20 | Pune | Tablet | 13 | ₹17743 | Buy 1 Get 1 | Available
+Store_20 | Pune | Camera | 14 | ₹21551 | Buy 1 Get 1 | Available
+Store_21 | Hyderabad | Laptop | 50 | ₹35682 | Exchange Offer | Available
+Store_21 | Hyderabad | Smartphone | 5 | ₹70666 | 10% off | Available
+Store_21 | Hyderabad | Headphones | 14 | ₹68874 | Flat 500 off | Available
+Store_21 | Hyderabad | Smartwatch | 17 | ₹29154 | None | Available
+Store_21 | Hyderabad | Tablet | 46 | ₹22211 | Free Accessory | Available
+Store_21 | Hyderabad | Camera | 12 | ₹2596 | No Cost EMI | Available
+Store_22 | Delhi | Laptop | 34 | ₹23104 | Free Accessory | Available
+Store_22 | Delhi | Smartphone | 32 | ₹26318 | 10% off | Available
+Store_22 | Delhi | Headphones | 6 | ₹39828 | No Cost EMI | Available
+Store_22 | Delhi | Smartwatch | 19 | ₹38398 | Exchange Offer | Available
+Store_22 | Delhi | Tablet | 5 | ₹51112 | None | Available
+Store_22 | Delhi | Camera | 42 | ₹15067 | None | Available
+Store_23 | Chennai | Laptop | 6 | ₹41406 | Flat 500 off | Available
+Store_23 | Chennai | Smartphone | 13 | ₹72812 | Buy 1 Get 1 | Available
+Store_23 | Chennai | Headphones | 18 | ₹4808 | Exchange Offer | Available
+Store_23 | Chennai | Smartwatch | 12 | ₹50101 | Exchange Offer | Available
+Store_23 | Chennai | Tablet | 5 | ₹61490 | None | Available
+Store_23 | Chennai | Camera | 34 | ₹2714 | 10% off | Available
+Store_24 | Delhi | Laptop | 30 | ₹62149 | Free Accessory | Available
+Store_24 | Delhi | Smartphone | 16 | ₹35593 | Flat 500 off | Available
+Store_24 | Delhi | Headphones | 36 | ₹71548 | Exchange Offer | Available
+Store_24 | Delhi | Smartwatch | 48 | ₹69691 | Exchange Offer | Available
+Store_24 | Delhi | Tablet | 48 | ₹52355 | 10% off | Available
+Store_24 | Delhi | Camera | 5 | ₹3476 | No Cost EMI | Available
+Store_25 | Ahmedabad | Laptop | 23 | ₹49570 | 10% off | Available
+Store_25 | Ahmedabad | Smartphone | 16 | ₹75721 | 10% off | Available
+Store_25 | Ahmedabad | Headphones | 44 | ₹53977 | Exchange Offer | Available
+Store_25 | Ahmedabad | Smartwatch | 16 | ₹13033 | None | Available
+Store_25 | Ahmedabad | Tablet | 9 | ₹64209 | Flat 500 off | Available
+Store_25 | Ahmedabad | Camera | 25 | ₹3981 | Buy 1 Get 1 | Available
+Store_26 | Hyderabad | Laptop | 6 | ₹76499 | 10% off | Available
+Store_26 | Hyderabad | Smartphone | 47 | ₹68455 | Buy 1 Get 1 | Available
+Store_26 | Hyderabad | Headphones | 18 | ₹60705 | Buy 1 Get 1 | Available
+Store_26 | Hyderabad | Smartwatch | 14 | ₹31505 | Free Accessory | Available
+Store_26 | Hyderabad | Tablet | 29 | ₹12341 | Buy 1 Get 1 | Available
+Store_26 | Hyderabad | Camera | 12 | ₹68696 | Flat 500 off | Available
+Store_27 | Kolkata | Laptop | 47 | ₹40396 | Free Accessory | Available
+Store_27 | Kolkata | Smartphone | 33 | ₹47491 | Exchange Offer | Available
+Store_27 | Kolkata | Headphones | 46 | ₹65628 | Free Accessory | Available
+Store_27 | Kolkata | Smartwatch | 41 | ₹10981 | No Cost EMI | Available
+Store_27 | Kolkata | Tablet | 19 | ₹24107 | 10% off | Available
+Store_27 | Kolkata | Camera | 22 | ₹73749 | Free Accessory | Available
+Store_28 | Bangalore | Laptop | 38 | ₹26756 | No Cost EMI | Available
+Store_28 | Bangalore | Smartphone | 33 | ₹34677 | Exchange Offer | Available
+Store_28 | Bangalore | Headphones | 48 | ₹12135 | Free Accessory | Available
+Store_28 | Bangalore | Smartwatch | 23 | ₹11214 | No Cost EMI | Available
+Store_28 | Bangalore | Tablet | 43 | ₹28614 | Exchange Offer | Available
+Store_28 | Bangalore | Camera | 35 | ₹35981 | Buy 1 Get 1 | Available
+Store_29 | Kolkata | Laptop | 42 | ₹6119 | No Cost EMI | Available
+Store_29 | Kolkata | Smartphone | 39 | ₹44212 | Flat 500 off | Available
+Store_29 | Kolkata | Headphones | 49 | ₹16870 | 10% off | Available
+Store_29 | Kolkata | Smartwatch | 42 | ₹64626 | Exchange Offer | Available
+Store_29 | Kolkata | Tablet | 35 | ₹33086 | Free Accessory | Available
+Store_29 | Kolkata | Camera | 47 | ₹77591 | No Cost EMI | Available
+Store_30 | Delhi | Laptop | 35 | ₹8371 | Flat 500 off | Available
+Store_30 | Delhi | Smartphone | 36 | ₹42461 | Buy 1 Get 1 | Available
+Store_30 | Delhi | Headphones | 46 | ₹14215 | None | Available
+Store_30 | Delhi | Smartwatch | 47 | ₹6422 | 10% off | Available
+Store_30 | Delhi | Tablet | 14 | ₹79895 | No Cost EMI | Available
+Store_30 | Delhi | Camera | 10 | ₹33062 | Exchange Offer | Available
+Store_31 | Pune | Laptop | 19 | ₹15859 | 10% off | Available
+Store_31 | Pune | Smartphone | 37 | ₹68603 | Free Accessory | Available
+Store_31 | Pune | Headphones | 45 | ₹19926 | Free Accessory | Available
+Store_31 | Pune | Smartwatch | 33 | ₹41027 | No Cost EMI | Available
+Store_31 | Pune | Tablet | 42 | ₹16607 | Free Accessory | Available
+Store_31 | Pune | Camera | 49 | ₹43324 | Flat 500 off | Available
+Store_32 | Kolkata | Laptop | 31 | ₹32842 | No Cost EMI | Available
+Store_32 | Kolkata | Smartphone | 24 | ₹56886 | None | Available
+Store_32 | Kolkata | Headphones | 14 | ₹28136 | Free Accessory | Available
+Store_32 | Kolkata | Smartwatch | 31 | ₹11002 | Exchange Offer | Available
+Store_32 | Kolkata | Tablet | 49 | ₹50073 | None | Available
+Store_32 | Kolkata | Camera | 7 | ₹22718 | Exchange Offer | Available
+Store_33 | Chennai | Laptop | 50 | ₹49403 | No Cost EMI | Available
+Store_33 | Chennai | Smartphone | 13 | ₹74861 | 10% off | Available
+Store_33 | Chennai | Headphones | 22 | ₹53531 | Buy 1 Get 1 | Available
+Store_33 | Chennai | Smartwatch | 22 | ₹27144 | Exchange Offer | Available
+Store_33 | Chennai | Tablet | 26 | ₹46219 | Exchange Offer | Available
+Store_33 | Chennai | Camera | 42 | ₹49891 | 10% off | Available
+Store_34 | Pune | Laptop | 50 | ₹42487 | 10% off | Available
+Store_34 | Pune | Smartphone | 27 | ₹14530 | Free Accessory | Available
+Store_34 | Pune | Headphones | 6 | ₹54260 | Free Accessory | Available
+Store_34 | Pune | Smartwatch | 13 | ₹22135 | Flat 500 off | Available
+Store_34 | Pune | Tablet | 42 | ₹77124 | Flat 500 off | Available
+Store_34 | Pune | Camera | 35 | ₹47593 | 10% off | Available
+Store_35 | Ahmedabad | Laptop | 24 | ₹45802 | Flat 500 off | Available
+Store_35 | Ahmedabad | Smartphone | 28 | ₹10097 | Exchange Offer | Available
+Store_35 | Ahmedabad | Headphones | 33 | ₹43396 | 10% off | Available
+Store_35 | Ahmedabad | Smartwatch | 8 | ₹51337 | No Cost EMI | Available
+Store_35 | Ahmedabad | Tablet | 24 | ₹74682 | Free Accessory | Available
+Store_35 | Ahmedabad | Camera | 32 | ₹49112 | No Cost EMI | Available
+Store_36 | Bangalore | Laptop | 10 | ₹9705 | Buy 1 Get 1 | Available
+Store_36 | Bangalore | Smartphone | 37 | ₹3277 | Exchange Offer | Available
+Store_36 | Bangalore | Headphones | 32 | ₹27135 | Free Accessory | Available
+Store_36 | Bangalore | Smartwatch | 5 | ₹68084 | Flat 500 off | Available
+Store_36 | Bangalore | Tablet | 37 | ₹15391 | Buy 1 Get 1 | Available
+Store_36 | Bangalore | Camera | 37 | ₹53887 | Flat 500 off | Available
+Store_37 | Ahmedabad | Laptop | 33 | ₹21391 | None | Available
+Store_37 | Ahmedabad | Smartphone | 5 | ₹36334 | Exchange Offer | Available
+Store_37 | Ahmedabad | Headphones | 15 | ₹56240 | Exchange Offer | Available
+Store_37 | Ahmedabad | Smartwatch | 22 | ₹68935 | Buy 1 Get 1 | Available
+Store_37 | Ahmedabad | Tablet | 39 | ₹21009 | Exchange Offer | Available
+Store_37 | Ahmedabad | Camera | 24 | ₹63483 | 10% off | Available
+Store_38 | Delhi | Laptop | 44 | ₹24222 | Free Accessory | Available
+Store_38 | Delhi | Smartphone | 26 | ₹27617 | 10% off | Available
+Store_38 | Delhi | Headphones | 35 | ₹50846 | No Cost EMI | Available
+Store_38 | Delhi | Smartwatch | 45 | ₹39360 | Buy 1 Get 1 | Available
+Store_38 | Delhi | Tablet | 47 | ₹62900 | Exchange Offer | Available
+Store_38 | Delhi | Camera | 48 | ₹58736 | Flat 500 off | Available
+Store_39 | Chennai | Laptop | 28 | ₹36691 | No Cost EMI | Available
+Store_39 | Chennai | Smartphone | 30 | ₹43789 | Buy 1 Get 1 | Available
+Store_39 | Chennai | Headphones | 18 | ₹9697 | 10% off | Available
+Store_39 | Chennai | Smartwatch | 15 | ₹9004 | Buy 1 Get 1 | Available
+Store_39 | Chennai | Tablet | 20 | ₹19790 | Free Accessory | Available
+Store_39 | Chennai | Camera | 40 | ₹55823 | Buy 1 Get 1 | Available
+Store_40 | Chennai | Laptop | 19 | ₹44646 | No Cost EMI | Available
+Store_40 | Chennai | Smartphone | 49 | ₹38476 | Free Accessory | Available
+Store_40 | Chennai | Headphones | 6 | ₹5257 | None | Available
+Store_40 | Chennai | Smartwatch | 46 | ₹31666 | Exchange Offer | Available
+Store_40 | Chennai | Tablet | 6 | ₹29342 | Flat 500 off | Available
+Store_40 | Chennai | Camera | 13 | ₹73579 | No Cost EMI | Available
+Store_41 | Hyderabad | Laptop | 25 | ₹44248 | Flat 500 off | Available
+Store_41 | Hyderabad | Smartphone | 47 | ₹12386 | Exchange Offer | Available
+Store_41 | Hyderabad | Headphones | 31 | ₹71106 | None | Available
+Store_41 | Hyderabad | Smartwatch | 38 | ₹2114 | Buy 1 Get 1 | Available
+Store_41 | Hyderabad | Tablet | 29 | ₹73391 | Flat 500 off | Available
+Store_41 | Hyderabad | Camera | 47 | ₹64470 | Exchange Offer | Available
+Store_42 | Mumbai | Laptop | 33 | ₹45954 | Free Accessory | Available
+Store_42 | Mumbai | Smartphone | 33 | ₹45386 | Flat 500 off | Available
+Store_42 | Mumbai | Headphones | 9 | ₹2355 | Exchange Offer | Available
+Store_42 | Mumbai | Smartwatch | 43 | ₹13638 | No Cost EMI | Available
+Store_42 | Mumbai | Tablet | 13 | ₹33715 | Free Accessory | Available
+Store_42 | Mumbai | Camera | 6 | ₹2284 | Buy 1 Get 1 | Available
+Store_43 | Mumbai | Laptop | 26 | ₹64837 | None | Available
+Store_43 | Mumbai | Smartphone | 38 | ₹33119 | Free Accessory | Available
+Store_43 | Mumbai | Headphones | 34 | ₹48756 | Flat 500 off | Available
+Store_43 | Mumbai | Smartwatch | 14 | ₹31861 | None | Available
+Store_43 | Mumbai | Tablet | 9 | ₹29444 | Flat 500 off | Available
+Store_43 | Mumbai | Camera | 11 | ₹59168 | Free Accessory | Available
+Store_44 | Ahmedabad | Laptop | 11 | ₹9445 | Free Accessory | Available
+Store_44 | Ahmedabad | Smartphone | 41 | ₹57840 | Free Accessory | Available
+Store_44 | Ahmedabad | Headphones | 6 | ₹75761 | None | Available
+Store_44 | Ahmedabad | Smartwatch | 44 | ₹40790 | Exchange Offer | Available
+Store_44 | Ahmedabad | Tablet | 44 | ₹79708 | No Cost EMI | Available
+Store_44 | Ahmedabad | Camera | 22 | ₹66604 | Free Accessory | Available
+Store_45 | Kolkata | Laptop | 14 | ₹9898 | No Cost EMI | Available
+Store_45 | Kolkata | Smartphone | 6 | ₹51011 | 10% off | Available
+Store_45 | Kolkata | Headphones | 18 | ₹62575 | No Cost EMI | Available
+Store_45 | Kolkata | Smartwatch | 28 | ₹74378 | 10% off | Available
+Store_45 | Kolkata | Tablet | 45 | ₹20990 | 10% off | Available
+Store_45 | Kolkata | Camera | 43 | ₹41879 | None | Available
+Store_46 | Chennai | Laptop | 37 | ₹58852 | 10% off | Available
+Store_46 | Chennai | Smartphone | 16 | ₹49217 | Free Accessory | Available
+Store_46 | Chennai | Headphones | 27 | ₹59595 | 10% off | Available
+Store_46 | Chennai | Smartwatch | 47 | ₹3086 | Exchange Offer | Available
+Store_46 | Chennai | Tablet | 28 | ₹23881 | Buy 1 Get 1 | Available
+Store_46 | Chennai | Camera | 7 | ₹54337 | Flat 500 off | Available
+Store_47 | Ahmedabad | Laptop | 17 | ₹57251 | No Cost EMI | Available
+Store_47 | Ahmedabad | Smartphone | 49 | ₹44583 | No Cost EMI | Available
+Store_47 | Ahmedabad | Headphones | 25 | ₹61602 | Buy 1 Get 1 | Available
+Store_47 | Ahmedabad | Smartwatch | 16 | ₹68766 | 10% off | Available
+Store_47 | Ahmedabad | Tablet | 42 | ₹69079 | Flat 500 off | Available
+Store_47 | Ahmedabad | Camera | 45 | ₹62369 | Free Accessory | Available
+Store_48 | Pune | Laptop | 34 | ₹13602 | No Cost EMI | Available
+Store_48 | Pune | Smartphone | 5 | ₹77572 | 10% off | Available
+Store_48 | Pune | Headphones | 28 | ₹25476 | None | Available
+Store_48 | Pune | Smartwatch | 48 | ₹16984 | Free Accessory | Available
+Store_48 | Pune | Tablet | 16 | ₹44526 | None | Available
+Store_48 | Pune | Camera | 8 | ₹25637 | None | Available
+Store_49 | Pune | Laptop | 33 | ₹62464 | Flat 500 off | Available
+Store_49 | Pune | Smartphone | 28 | ₹28943 | Flat 500 off | Available
+Store_49 | Pune | Headphones | 16 | ₹50635 | Flat 500 off | Available
+Store_49 | Pune | Smartwatch | 27 | ₹67530 | 10% off | Available
+Store_49 | Pune | Tablet | 48 | ₹6238 | No Cost EMI | Available
+Store_49 | Pune | Camera | 40 | ₹32368 | 10% off | Available
+Store_50 | Bangalore | Laptop | 44 | ₹57266 | Buy 1 Get 1 | Available
+Store_50 | Bangalore | Smartphone | 44 | ₹22763 | Free Accessory | Available
+Store_50 | Bangalore | Headphones | 43 | ₹49866 | No Cost EMI | Available
+Store_50 | Bangalore | Smartwatch | 25 | ₹32519 | Buy 1 Get 1 | Available
+Store_50 | Bangalore | Tablet | 44 | ₹17036 | None | Available
+Store_50 | Bangalore | Camera | 31 | ₹40574 | Buy 1 Get 1 | Available
+
+---------------------------------------------
+Product Description
+
+Product: Dell XPS 13 (13th Gen)
+Category: Laptop
+Price: $1,499
+Key Features: 13.4" FHD+ InfinityEdge display; Intel Core i7 (13th Gen), 16GB RAM, 512GB SSD; Iris Xe Graphics; 12 hours battery; CNC aluminum chassis
+Description: Compact and powerful laptop for professionals and students.
+---
+Product: Apple MacBook Air M2
+Category: Laptop
+Price: $1,199
+Key Features: 13.6" Liquid Retina display; Apple M2 chip; Up to 512GB SSD, 24GB RAM; 18 hours battery; Fanless design
+Description: Sleek design and high performance, ideal for everyday use and creative tasks.
+---
+Product: Samsung Galaxy S23 Ultra
+Category: Smartphone
+Price: $1,199
+Key Features: 6.8" AMOLED 120Hz display; Snapdragon 8 Gen 2; 200MP camera; S-Pen; 5000mAh battery
+Description: Premium flagship smartphone with cutting-edge features.
+---
+Product: iPhone 14 Pro
+Category: Smartphone
+Price: $999
+Key Features: 6.1" OLED Always-On display; A16 Bionic chip; 48MP ProRAW triple camera; Dynamic Island; IP68 water resistance
+Description: Stunning design, clear camera quality, powerhouse performance.
+---
+Product: Sony WH-1000XM5
+Category: Headphones
+Price: $399
+Key Features: Industry-leading noise cancellation; 30hr battery; Premium sound drivers; Adaptive sound; Over-ear comfort
+Description: Audiophile-level headphones with superb comfort and sound isolation.
+---
+Product: Bose QuietComfort Earbuds II
+Category: Headphones
+Price: $299
+Key Features: Noise cancellation; Custom fit; IPX4 resistant; 6hr battery (24 with case); Clear call microphones
+Description: Compact earbuds with powerful sound and active noise cancellation.
+---
+Product: Apple Watch Series 8
+Category: Smartwatch
+Price: $399
+Key Features: Always-On display; ECG, SpO2, temperature sensors; Crash detection; 18hr battery; Water-resistant
+Description: Advanced health and connectivity smartwatch.
+---
+Product: Garmin Forerunner 965
+Category: Smartwatch
+Price: $599
+Key Features: 1.4" AMOLED; Multi-band GPS; 23-day battery; Sports apps; Titanium bezel
+Description: For serious athletes with precise GPS and long battery life.
+---
+Product: Apple iPad Pro 12.9" (M2)
+Category: Tablet
+Price: $1,099
+Key Features: 12.9" Retina XDR; Apple M2; Magic Keyboard & Pencil; Ultra-wide Center Stage; 5G
+Description: Professional-grade tablet for creators and multitaskers.
+---
+Product: Samsung Galaxy Tab S9 Ultra
+Category: Tablet
+Price: $1,199
+Key Features: 14.6" AMOLED 120Hz; Snapdragon 8 Gen 2; S Pen; IP68 water-resistant; Quad speakers
+Description: Large premium tablet for content, artistry, and productivity.
+---
+Product: Sony Alpha a7 IV
+Category: Camera
+Price: $2,499
+Key Features: 33MP Full-frame sensor; 4K 60fps video; 5-axis stabilization; 759 AF points; Dual card slots
+Description: Professional mirrorless camera with excellent video/photo quality.
+---
+Product: Canon EOS R50
+Category: Camera
+Price: $749
+Key Features: 24.2MP APS-C sensor; 4K video; Dual-pixel autofocus; Articulating touchscreen; Lightweight
+Description: Entry-level mirrorless camera for creators and vloggers.
+---
+
+----------------------------------------------------
+Return Policy
+
+ID: return_001
+Product: Dell XPS 13 (Laptop)
+Policy: Returns accepted within 30 days of purchase with original packaging and proof of purchase. Device must have no physical damage and include charger.
+----------------------------------------
+
+ID: return_002
+Product: Apple MacBook Air M2 (Laptop)
+Policy: Eligible for return within 14 days if unopened. Opened units can only be returned if defective, subject to Apple inspection.
+----------------------------------------
+
+ID: return_003
+Product: Samsung Galaxy S23 Ultra (Smartphone)
+Policy: 15-day return window. Device must be in original condition; IMEI will be verified.
+----------------------------------------
+
+ID: return_004
+Product: iPhone 14 Pro (Smartphone)
+Policy: 14-day return period. Returns accepted only for defects or DOA (dead-on-arrival).
+----------------------------------------
+
+ID: return_005
+Product: Sony WH-1000XM5 (Headphones)
+Policy: Can be returned within 30 days for refund or replacement. Must include charging cable, case, and original box.
+----------------------------------------
+
+ID: return_006
+Product: Bose QuietComfort Earbuds II
+Policy: 30-day satisfaction guarantee. Ear tips must be unused or replaced with sealed spares.
+----------------------------------------
+
+ID: return_007
+Product: Apple Watch Series 8 (Smartwatch)
+Policy: 14-day return period. Refund only if health sensors are fully functional and straps undamaged.
+----------------------------------------
+
+ID: return_008
+Product: Garmin Forerunner 965 (Smartwatch)
+Policy: 30-day returns allowed. Scratches or water damage not covered.
+----------------------------------------
+
+ID: return_009
+Product: Apple iPad Pro 12.9” (M2) (Tablet)
+Policy: 14-day return policy. Only unopened units accepted unless proven defective.
+----------------------------------------
+
+ID: return_010
+Product: Samsung Galaxy Tab S9 Ultra (Tablet)
+Policy: 15-day return window. Device must include S Pen and charger.
+----------------------------------------
+
+ID: return_011
+Product: Sony Alpha a7 IV (Camera)
+Policy: 30-day return policy. Sensor damage voids eligibility; all accessories required.
+----------------------------------------
+
+ID: return_012
+Product: Canon EOS R50 (Camera)
+Policy: 30-day returns. Lens kit must be returned with the body; missing parts not accepted.
+----------------------------------------
+
+ID: return_013
+Product: HP LaserJet Pro MFP (Printer)
+Policy: 15-day return period. Toner cartridges must be unused to qualify.
+----------------------------------------
+
+ID: return_014
+Product: Mi Smart LED TV 43 (Television)
+Policy: 10-day return policy for manufacturing defects only. Screen cracks or physical damage excluded.
+----------------------------------------
+
+ID: return_015
+Product: Noise ColorFit Pro 4 (Smartwatch)
+Policy: 7-day return period. Accepted only for non-functional devices, not cosmetic issues.
+----------------------------------------
+
+ID: return_016
+Product: AirPods Max (Headphones)
+Policy: 14-day returns. Must include charging cable and storage case.
+----------------------------------------
+
+ID: return_017
+Product: ThinkPad X1 Carbon (Laptop)
+Policy: 30-day business return policy. Subject to Lenovo diagnostic report.
+----------------------------------------
+
+ID: return_018
+Product: Galaxy S24 Pro (Smartphone)
+Policy: 7-day replacement policy for defects only. Non-returnable once activated.
+----------------------------------------
+
+ID: return_019
+Product: EOS R10 Camera (Canon)
+Policy: 20-day return period. Must include warranty card and accessories.
+----------------------------------------
+
+ID: return_020
+Product: Inspiron 15 5000 (Laptop)
+Policy: 15-day return period. Software-related issues not eligible for return.
+----------------------------------------
+
+--------------------------------------------
+Store information
+
+Store Number|Address|Zip Code|Store Hours|Phone Number
+Store_1|386 High Street, Ahmedabad|330751|8 AM - 10 PM|+91-8960923294
+Store_2|563 Station Road, Mumbai|921661|10 AM - 8 PM|+91-8267197775
+Store_3|688 Market Road, Hyderabad|957754|8 AM - 10 PM|+91-9716620954
+Store_4|648 Main Street, Hyderabad|372868|8 AM - 10 PM|+91-7085113831
+Store_5|961 Main Street, Kolkata|431453|9 AM - 9 PM|+91-8248981200
+Store_6|338 Market Road, Delhi|418130|8 AM - 10 PM|+91-8196285271
+Store_7|212 Park Avenue, Pune|736496|9 AM - 9 PM|+91-9851766852
+Store_8|886 MG Road, Ahmedabad|987166|8 AM - 10 PM|+91-9698818846
+Store_9|256 Station Road, Bangalore|379554|10 AM - 8 PM|+91-8468255922
+Store_10|619 Market Road, Mumbai|888801|10 AM - 8 PM|+91-7483943836
+Store_11|815 Park Avenue, Bangalore|658071|8 AM - 10 PM|+91-7073737244
+Store_12|681 High Street, Hyderabad|813060|8 AM - 10 PM|+91-9065961566
+Store_13|630 Main Street, Mumbai|431051|10 AM - 8 PM|+91-9670215040
+Store_14|990 High Street, Hyderabad|930232|10 AM - 8 PM|+91-7241795583
+Store_15|648 MG Road, Delhi|743705|8 AM - 10 PM|+91-8566708433
+Store_16|324 Park Avenue, Hyderabad|903786|9 AM - 9 PM|+91-7222581183
+Store_17|848 Market Road, Chennai|522922|9 AM - 9 PM|+91-8788411687
+Store_18|600 High Street, Delhi|318173|10 AM - 8 PM|+91-9835635022
+Store_19|106 Main Street, Delhi|531090|10 AM - 8 PM|+91-8700332776
+Store_20|702 Market Road, Pune|779175|9 AM - 9 PM|+91-9500301082
+Store_21|433 MG Road, Hyderabad|634478|10 AM - 8 PM|+91-8826301073
+Store_22|181 Park Avenue, Delhi|776580|8 AM - 10 PM|+91-9090502224
+Store_23|714 Park Avenue, Chennai|780531|10 AM - 8 PM|+91-7013606038
+Store_24|996 Park Avenue, Delhi|440420|8 AM - 10 PM|+91-9921318975
+Store_25|887 Station Road, Ahmedabad|832441|8 AM - 10 PM|+91-8553792267
+Store_26|428 Station Road, Hyderabad|646765|9 AM - 9 PM|+91-7211536554
+Store_27|895 Station Road, Kolkata|428098|8 AM - 10 PM|+91-7184212927
+Store_28|673 Main Street, Bangalore|372070|8 AM - 10 PM|+91-7141666222
+Store_29|457 MG Road, Kolkata|605726|10 AM - 8 PM|+91-7507589987
+Store_30|202 MG Road, Ahmedabad|742000|10 AM - 8 PM|+91-9901822914
+Store_31|967 Station Road, Delhi|154647|8 AM - 10 PM|+91-9332357745
+Store_32|886 MG Road, Kolkata|160875|10 AM - 8 PM|+91-8483847723
+Store_33|594 Station Road, Chennai|739341|9 AM - 9 PM|+91-8485340648
+Store_34|988 Station Road, Pune|134669|8 AM - 10 PM|+91-8732831554
+Store_35|451 Main Street, Ahmedabad|467873|10 AM - 8 PM|+91-7119306861
+Store_36|407 Market Road, Bangalore|321817|8 AM - 10 PM|+91-8022549285
+Store_37|989 Market Road, Ahmedabad|883614|8 AM - 10 PM|+91-7696233611
+Store_38|863 Main Street, Delhi|768266|9 AM - 9 PM|+91-9313967926
+Store_39|740 Park Avenue, Chennai|962002|9 AM - 9 PM|+91-8444187127
+Store_40|820 Park Avenue, Chennai|462026|10 AM - 8 PM|+91-9686185489
+Store_41|969 Station Road, Hyderabad|332672|9 AM - 9 PM|+91-8173089600
+Store_42|265 High Street, Mumbai|575985|8 AM - 10 PM|+91-7334313503
+Store_43|272 High Street, Mumbai|311251|8 AM - 10 PM|+91-8707272499
+Store_44|630 Main Street, Ahmedabad|150516|10 AM - 8 PM|+91-7281717151
+Store_45|163 MG Road, Kolkata|965040|8 AM - 10 PM|+91-8153443835
+Store_46|520 MG Road, Chennai|978185|10 AM - 8 PM|+91-7615121436
+Store_47|132 MG Road, Ahmedabad|448740|9 AM - 9 PM|+91-9220153584
+Store_48|653 High Street, Pune|266594|10 AM - 8 PM|+91-7333907477
+Store_49|428 High Street, Pune|659376|10 AM - 8 PM|+91-7071548523
+Store_50|155 Market Road, Bangalore|733773|8 AM - 10 PM|+91-7491462965
+

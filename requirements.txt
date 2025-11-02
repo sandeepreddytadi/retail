@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+faiss-cpu
+tqdm
+python-dotenv
+tiktoken
+langchain-core
+langchain-community
+langchain_openai
+langchain_huggingface
