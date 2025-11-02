@@ -1,6 +1,7 @@
+# agents/response_agent.py
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.2)
+_llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.2)
 
 def generate_answer(query: str, contexts: list) -> str:
     context = "\n\n".join(contexts) if contexts else ""
@@ -13,8 +14,12 @@ Context:
 User question:
 {query}
 
-If the context doesn't contain an answer, respond:
+Instructions:
+- If the context contains an answer, answer concisely and cite (briefly) where you got the info if possible.
+- If the context does not contain an answer, respond exactly:
 "I couldn’t find that in our data — please check with the nearest store."
+
+Keep the answer short (1-4 sentences).
 """
-    resp = llm.invoke(prompt)
+    resp = _llm.invoke(prompt)
     return resp.content.strip()

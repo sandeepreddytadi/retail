@@ -1,13 +1,14 @@
+# agents/evaluation_agent.py
 from langchain_google_genai import ChatGoogleGenerativeAI
 import json
 import re
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
+_llm_eval = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
 
 def evaluate_relevance(query: str, answer: str, context: str) -> dict:
     prompt = f"""
 You are a relevance evaluator. Rate how well the ANSWER matches the CONTEXT for the QUERY.
-Return ONLY valid JSON format with no additional text:
+Return ONLY valid JSON with keys:
 {{"score": integer_between_0_100, "explain": "brief_reason"}}
 
 QUERY: {query}
@@ -16,19 +17,17 @@ CONTEXT: {context}
 
 JSON Response:
 """
-    resp = llm.invoke(prompt)
-    
+    resp = _llm_eval.invoke(prompt)
+    text = resp.content.strip()
     try:
-        # First try direct JSON parsing
-        return json.loads(resp.content)
+        return json.loads(text)
     except json.JSONDecodeError:
-        try:
-            # Extract JSON from text using regex
-            json_match = re.search(r'\{.*\}', resp.content, re.DOTALL)
-            if json_match:
-                return json.loads(json_match.group())
-        except:
-            pass
-        
-        # Final fallback
-        return {"score": 80, "explain": "Fallback — unable to parse evaluation JSON."}
+        # try to extract JSON substring
+        m = re.search(r'\{.*\}', text, re.DOTALL)
+        if m:
+            try:
+                return json.loads(m.group())
+            except:
+                pass
+    # fallback
+    return {"score": 80, "explain": "Fallback — unable to parse evaluation JSON."}
